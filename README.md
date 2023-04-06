@@ -2,7 +2,7 @@
 
 ## Summary
 
-This a python ChatGPT Voice Assistant, that takes in user audio, converts it too text, and then reads the responce back to you! I learned how to make from 
+This is a python ChatGPT Voice Assistant, that takes in user audio, converts it too text, and then reads the response back to you! I learned how to make from 
 Ai Austin, he has a guide on everthing i made in this project [```Here!```](https://www.youtube.com/watch?v=8z8Cobsvc9k)
 
 ## Installation
